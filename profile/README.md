@@ -512,7 +512,10 @@ ES_PORT=9200
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
+## 🔗 Links
 
+- [자세한 내용은 팀 브로셔를 참고하시기 바랍니다](https://teamsparta.notion.site/9-CouponPop-2a32dc3ef514806d894bfe5ae653f0eb)
+---
 <div align="center">
 
 **<img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/dd2d9522-3591-454c-9cd2-0b534b75b8b9" /> CouponPop Team 9**
