@@ -1,6 +1,7 @@
 # <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/dd2d9522-3591-454c-9cd2-0b534b75b8b9" /> CouponPop
 
 ![Thumbnail (7)](https://github.com/user-attachments/assets/c86b02a6-185b-4ee6-ba1a-c7599983aa3d)
+<img width="4000" height="2828" alt="팀프로젝트_상장_대상(CouponPop)" src="https://github.com/user-attachments/assets/180a69e7-eb48-444c-a4cb-abfce1197b47" />
 [![GitHub Stars](https://img.shields.io/github/stars/CouponPop?style=social)](https://github.com/CouponPop)
 [![Tech Stack](https://img.shields.io/badge/Tech-Java%20%7C%20Spring%20Boot%20%7C%20MSA-blue)]()
 [![AWS](https://img.shields.io/badge/Cloud-AWS%20ECS%20Fargate-orange)]()
